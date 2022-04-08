@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/25TcVhX2qVokfQwzVUB0hX/pa3SCiNHqTrdeLAFA0TsyHtr4h35TA+AhdpDOWyQS/uCkon9ULPmrHZEbBkiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KHACH\\Desktop\\MyShop\\BookStore\\BookStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KHACH\\.nuget\\packages\\aspose.cells\\22.3.0\\aspose.cells.22.3.0.nupkg.sha512",
+    "C:\\Users\\KHACH\\.nuget\\packages\\fody\\6.5.1\\fody.6.5.1.nupkg.sha512",
+    "C:\\Users\\KHACH\\.nuget\\packages\\materialdesigncolors\\2.0.5\\materialdesigncolors.2.0.5.nupkg.sha512",
+    "C:\\Users\\KHACH\\.nuget\\packages\\materialdesignthemes\\4.4.0\\materialdesignthemes.4.4.0.nupkg.sha512",
+    "C:\\Users\\KHACH\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\KHACH\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\KHACH\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512",
+    "C:\\Users\\KHACH\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\KHACH\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
